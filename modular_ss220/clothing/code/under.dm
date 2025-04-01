@@ -335,3 +335,8 @@
 	icon_state = "trainer_black_skirt"
 	item_state = "trainer_black_skirt"
 	item_color = "trainer_black_skirt"
+
+/obj/item/clothing/under/solgov/replica
+	name = "униформа ТСФ"
+	desc = "Реплика оригинальной униформы военно-морского флота ТСФ. Гражданская версия – исключительно стильный аксессуар, не имеющий отношения к реальной экипировке. На внутренней бирке надпись: 'Сделано в Китае. Только для людей'."
+	species_restricted = list("Human")

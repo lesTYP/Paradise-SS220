@@ -407,3 +407,16 @@
 	path = /obj/item/clothing/under/ei_skirt_alt
 	donator_tier = 1
 	cost = 1
+
+//MARK: TSF
+/datum/gear/donor/beret/solgov/replica
+	display_name = "Берет ТСФ"
+	path = /obj/item/clothing/head/beret/solgov/replica
+	donator_tier = 2
+	cost = 3
+
+/datum/gear/donor/solgov/replica
+	display_name = "Униформа ТСФ"
+	path = /obj/item/clothing/under/solgov/replica
+	donator_tier = 2
+	cost = 3

@@ -142,3 +142,9 @@
 
 /obj/item/clothing/head/kitty
 	icon_override = 'modular_ss220/clothing/icons/mob/hats.dmi'
+
+/obj/item/clothing/head/beret/solgov/replica
+	name = "берет ТСФ"
+	desc = "Реплика оригинального берета военно-морского флота ТСФ. Гражданская версия – исключительно стильный аксессуар, не имеющий отношения к реальной экипировке. На внутренней бирке надпись: 'Сделано в Китае. Только для людей'."
+	armor = list(MELEE = 5, BULLET = 0, LASER = 0, ENERGY = 0, BOMB = 0, RAD = 0, FIRE = 20, ACID = 20)
+	species_restricted = list("Human")
