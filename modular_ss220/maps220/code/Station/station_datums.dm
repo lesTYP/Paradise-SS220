@@ -17,6 +17,11 @@
 	webmap_url = "https://webmap.affectedarc07.co.uk/maps/ss220/metastation/"
 
 /datum/map/cerestation
+	fluff_name = "ИСН Фаррагус"
+	technical_name = "CereStation220"
+	map_path = "_maps/map_files220/stations/cerestation.dmm"
+	// webmap_url = "https://webmap.affectedarc07.co.uk/maps/paradise/cerestation/" TODO add to web map
+	// welcome_sound = 'sound/AI/welcome_farragus.ogg' TODO Generate sound
 	voteable = FALSE
 
 /datum/map/emeraldstation
