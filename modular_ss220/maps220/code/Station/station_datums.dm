@@ -21,7 +21,7 @@
 	technical_name = "CereStation220"
 	map_path = "_maps/map_files220/stations/cerestation.dmm"
 	// webmap_url = "https://webmap.affectedarc07.co.uk/maps/paradise/cerestation/" TODO add to web map
-	// welcome_sound = 'sound/AI/welcome_farragus.ogg' TODO Generate sound
+	welcome_sound = "sound/AI/welcome_farragus.ogg"
 	voteable = FALSE
 
 /datum/map/emeraldstation
