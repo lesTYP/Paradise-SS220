@@ -17,6 +17,7 @@
 #include "code/loot/megafauna.dm"
 #include "code/loot/pools.dm"
 #include "code/mobs/aliens/larva.dm"
+#include "code/mobs/irradiated_mouse.dm"
 #include "code/reagents/medicine.dm"
 #include "code/reagents/reagent_containers.dm"
 #include "code/reagents/reagents_datum.dm"
